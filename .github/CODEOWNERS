@@ -120,7 +120,7 @@ planning/external_velocity_limit_selector/** satoshi.ota@tier4.jp shinnosuke.hir
 planning/freespace_planner/** kosuke.takeuchi@tier4.jp takamasa.horibe@tier4.jp takayuki.murooka@tier4.jp yutaka.shimizu@tier4.jp @autowarefoundation/autoware-global-codeowners
 planning/freespace_planning_algorithms/** kosuke.takeuchi@tier4.jp takamasa.horibe@tier4.jp takayuki.murooka@tier4.jp yutaka.shimizu@tier4.jp @autowarefoundation/autoware-global-codeowners
 planning/mission_planner/** isamu.takagi@tier4.jp ryohsuke.mitsudome@tier4.jp takamasa.horibe@tier4.jp takayuki.murooka@tier4.jp @autowarefoundation/autoware-global-codeowners
-planning/motion_velocity_smoother/** fumiya.watanabe@tier4.jp @autowarefoundation/autoware-global-codeowners
+planning/motion_velocity_smoother/** fumiya.watanabe@tier4.jp makoto.kurihara@tier4.jp takamasa.horibe@tier4.jp yutaka.shimizu@tier4.jp @autowarefoundation/autoware-global-codeowners
 planning/obstacle_avoidance_planner/** kosuke.takeuchi@tier4.jp takayuki.murooka@tier4.jp @autowarefoundation/autoware-global-codeowners
 planning/obstacle_cruise_planner/** takayuki.murooka@tier4.jp yutaka.shimizu@tier4.jp @autowarefoundation/autoware-global-codeowners
 planning/obstacle_stop_planner/** satoshi.ota@tier4.jp shumpei.wakabayashi@tier4.jp taiki.tanaka@tier4.jp tomoya.kimura@tier4.jp @autowarefoundation/autoware-global-codeowners
@@ -157,7 +157,7 @@ system/default_ad_api/** isamu.takagi@tier4.jp kahhooi.tan@tier4.jp kenji.miyake
 system/default_ad_api_helpers/ad_api_adaptors/** isamu.takagi@tier4.jp kahhooi.tan@tier4.jp kenji.miyake@tier4.jp makoto.yabuta@tier4.jp @autowarefoundation/autoware-global-codeowners
 system/default_ad_api_helpers/ad_api_visualizers/** isamu.takagi@tier4.jp kahhooi.tan@tier4.jp makoto.yabuta@tier4.jp @autowarefoundation/autoware-global-codeowners
 system/default_ad_api_helpers/automatic_pose_initializer/** isamu.takagi@tier4.jp kahhooi.tan@tier4.jp kenji.miyake@tier4.jp makoto.yabuta@tier4.jp @autowarefoundation/autoware-global-codeowners
-system/dummy_diag_publisher/** kenji.miyake@tier4.jp @autowarefoundation/autoware-global-codeowners
+system/dummy_diag_publisher/** akihiro.sakurai@tier4.jp fumihito.ito@tier4.jp kenji.miyake@tier4.jp @autowarefoundation/autoware-global-codeowners
 system/dummy_infrastructure/** kenji.miyake@tier4.jp @autowarefoundation/autoware-global-codeowners
 system/emergency_handler/** kenji.miyake@tier4.jp makoto.kurihara@tier4.jp @autowarefoundation/autoware-global-codeowners
 system/mrm_comfortable_stop_operator/** makoto.kurihara@tier4.jp @autowarefoundation/autoware-global-codeowners
